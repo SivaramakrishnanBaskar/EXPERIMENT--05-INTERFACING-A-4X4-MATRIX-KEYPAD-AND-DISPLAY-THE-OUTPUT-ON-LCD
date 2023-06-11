@@ -466,12 +466,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ```
 
-
-
-
 ## Output screen shots of proteus  :
- 
- ![image](https://github.com/SivaramakrishnanBaskar/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119476322/9f04b48e-56bc-4074-a231-f43d6838c444)
+ ![finout](https://github.com/SivaramakrishnanBaskar/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/119476322/224b9b80-f555-4b96-93d3-f9e5f8cb35e8)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
